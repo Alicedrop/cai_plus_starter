@@ -3,6 +3,6 @@
 
 高等教育出版社出版高等教育音像出版社出版的《土木工程制图（第四版）多媒体辅助教学系统》是土木工程制图教科书的学习辅助软件，它拥有\n
 
-程序所依赖的flashplayer_sa.exe可以在https://www.flash.cn/support/debug-downloads下载
+程序所依赖的flashplayer_sa.exe可以在https://www.flash.cn/support/debug-downloads 下载
 
 本项目不包含任何《土木工程制图（第四版）多媒体辅助教学系统》的内容。请在购买正版教科书后按提示下载，之后将\n
