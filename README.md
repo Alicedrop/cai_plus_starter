@@ -11,7 +11,7 @@
 
 ## 使用教程
 
-请在https://github.com/Alicedrop/cai_plus_starter/releases 下载最新版本的本软件（名称形式如CAI_lite_v0.1.3.exe），再从https://www.flash.cn/support/debug-downloads 中选择 下载Flash Player独立播放器 ，将其一同放入放到土木工程制图（第四版）多媒体辅助教学系统文件夹下（放入与系统的"cai"同一文件夹），之后双击打开CAI_lite_v0.1.3.exe即可。
+请在https://github.com/Alicedrop/cai_plus_starter/releases 下载最新版本的本软件（名称形式如CAI_lite_v0.1.3.exe），将其一同放入放到土木工程制图（第四版）多媒体辅助教学系统文件夹下（和原本的“土建工程制图 .exe”放一起），之后双击打开CAI_lite_v0.1.3.exe即可。
 
 ![image](https://github.com/Alicedrop/cai_plus_starter/assets/128953967/33ad0476-0772-4f99-bef1-caccc53fc78c)
 运行结果如图。
@@ -20,7 +20,7 @@
 
 本项目目前使用python开发、pyinstaller打包，未来计划迁移到c/c++以提高运行速度。全部代码按照MIT许可开源,对安全性质疑可以自行下载源码编译。
 
-程序所依赖的flashplayer_sa.exe可以在https://www.flash.cn/support/debug-downloads 下载
+在0.2.0版本之后，不再依赖adobe flash player，直接下载最新的版本即可。
 
 本项目不包含《土木工程制图（第四版）多媒体辅助教学系统》的内容。请在购买正版教科书后按提示下载。
 
